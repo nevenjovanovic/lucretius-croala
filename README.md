@@ -4,7 +4,7 @@
 
 Date created: 2016-09-15 05:17 PM | Last Updated: 2017-09-15 05:34 PM
 
-Instructions and XQueries to replicate XML databases of Lucretian and Croatian Neo-Latin verse clausulae, to enable comparison of the two sets. Material supplemental to the article Jovanović, N. "Reading Croatian Latin through Lucretius", MOUSEION 14:3 (currently in print).
+Instructions, sources, and XQueries to replicate XML databases of Lucretian and (Croatian) Neo-Latin verse clausulae, to enable comparison of the two sets. Material supplemental to the article Jovanović, N. "Reading Croatian Latin through Lucretius", MOUSEION 14:3 (currently in print).
 
 License: CC-By Attribution 4.0 International
 
